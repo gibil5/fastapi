@@ -1,0 +1,85 @@
+[
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "doors": 3,
+        "transmission": "auto",
+        "id": 1,
+        "trips": [
+          {
+            "id": 1,
+            "start": 10,
+            "end": 20,
+            "description": "Foo"
+          },
+          {
+            "id": 2,
+            "start": 30,
+            "end": 40,
+            "description": "Bar"
+          },
+          {
+            "id": 3,
+            "start": 50,
+            "end": 60,
+            "description": "Baz"
+          }
+        ]
+    },
+    {
+        "size": "s",
+        "fuel": "electric",
+        "doors": 3,
+        "transmission": "auto",
+        "id": 2
+    },
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "doors": 5,
+        "transmission": "manual",
+        "id": 3
+    },
+    {
+        "size": "m",
+        "fuel": "electric",
+        "doors": 3,
+        "transmission": "auto",
+        "id": 4
+    },
+    {
+        "size": "s",
+        "fuel": "electric",
+        "doors": 6,
+        "transmission": "auto",
+        "id": 5
+    },
+    {
+        "size": "m",
+        "fuel": "gasoline",
+        "doors": 5,
+        "transmission": "manual",
+        "id": 6
+    },
+    {
+        "size": "l",
+        "fuel": "diesel",
+        "doors": 5,
+        "transmission": "manual",
+        "id": 7
+    },
+    {
+        "size": "l",
+        "fuel": "electric",
+        "doors": 5,
+        "transmission": "auto",
+        "id": 8
+    },
+    {
+        "size": "l",
+        "fuel": "hybrid",
+        "doors": 5,
+        "transmission": "auto",
+        "id": 9
+    }
+]
